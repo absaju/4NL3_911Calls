@@ -40,7 +40,7 @@ Submissions will be evaluated based on:
 
 Precision is the ratio of true positives to the sum of true positives and false positives, while recall is the ratio of true positive to the sum of true positive and false negative.
 
-## Terms
+## Terms & Acknowledgements
 
 The challenge is posted as an assignment for course COMPSCI 4NL3, Winter 2025, McMaster University
 
