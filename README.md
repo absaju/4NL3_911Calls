@@ -44,5 +44,5 @@ Precision is the ratio of true positives to the sum of true positives and false 
 
 The challenge is posted as an assignment for course COMPSCI 4NL3, Winter 2025, McMaster University
 
-Dataset was transcibed from the following Kaggle Dataset : !(https://www.kaggle.com/datasets/louisteitelbaum/911-recordings)
+Dataset was transcibed from the following Kaggle Dataset : https://www.kaggle.com/datasets/louisteitelbaum/911-recordings
 
