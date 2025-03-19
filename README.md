@@ -37,5 +37,12 @@ Submissions will be evaluated based on:
 - **Weighted F1-score (Primary Metric)**: This metric balances precision and recall across all classes, accounting for class imbalance.
 - The leaderboard ranks participants based on their **Weighted F1-score**.
 ![image](https://github.com/user-attachments/assets/ee9de8eb-f1af-4f63-af63-d9681a5b29d9)
+
 Precision is the ratio of true positives to the sum of true positives and false positives, while recall is the ratio of true positive to the sum of true positive and false negative.
+
+## Terms
+
+The challenge is posted as an assignment for course COMPSCI 4NL3, Winter 2025, McMaster University
+
+Dataset was transcibed from the following Kaggle Dataset : !(https://www.kaggle.com/datasets/louisteitelbaum/911-recordings)
 
