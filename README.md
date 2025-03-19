@@ -26,5 +26,16 @@ Each row in the dataset corresponds to a single 911 call. The goal is to develop
 
 `baseline_models.ipynb` file contains two baseline models. It also contains code to get started with the challenge. For the baselines we have used two models, one using Majority Baseline and the next using logical regression. The models have achieved an accuracy of 0.56 and 0.53 respectively. Your challenge is to beat these baseline models.
 
-## Submission and Evaluation
+## Submission
+
+You should submit a csv file `submission.csv` containing columns `id`, `file_content` and `labels`. This is seen as an example in `baseline_models.ipynb` file. These `labels` should be your models prediction for each datapoint in the `testing.csv` file. 
+
+## Evaluation
+
+Submissions will be evaluated based on:
+
+- **Weighted F1-score (Primary Metric)**: This metric balances precision and recall across all classes, accounting for class imbalance.
+- The leaderboard ranks participants based on their **Weighted F1-score**.
+![image](https://github.com/user-attachments/assets/ee9de8eb-f1af-4f63-af63-d9681a5b29d9)
+Precision is the ratio of true positives to the sum of true positives and false positives, while recall is the ratio of true positive to the sum of true positive and false negative.
 
