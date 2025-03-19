@@ -16,8 +16,8 @@ The dataset consists of **911 call transcripts** provided in CSV format.
 - `labels`: The emergency category assigned to the call (**'Law_Enforcement', 'Fire_Department', 'Paramedics', 'Non_Emergency'**). 
 
 ### Files Included  
-- `training_data.csv` – Contains **id, file_content, and labels** for model training.  
-- `validation_data.csv` – Contains **id, file_content, and labels** for model validation.  
-- `testing_data.csv` – Contains **id and file_content only**, for model evaluation.  
+- `training_data.csv` – Contains **597 data points** with **id, file_content, and labels** columns for model training.   
+- `validation_data.csv` – Contains **75 data points** with **id, file_content, and labels** columns for model validation.  
+- `testing_data.csv` – Contains **73 data points** with **id and file_content** columns for model evaluation.  
 
 Each row in the dataset corresponds to a single 911 call. The goal is to develop a model that accurately classifies calls into their respective emergency categories. 
