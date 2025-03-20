@@ -28,7 +28,7 @@ Each row in the dataset corresponds to a single 911 call. The goal is to develop
 
 ## Submission
 
-You should submit a csv file `submission.csv` containing columns `id`, `file_content` and `labels`. This is seen as an example in `baseline_models.ipynb` file. These `labels` should be your models prediction for each datapoint in the `testing.csv` file. 
+You should submit a zip file (`submission.zip`) containing a csv file `submission.csv` with columns `id`, `file_content` and `labels`. This is seen as an example in `baseline_models.ipynb` file. These `labels` should be your models prediction for each datapoint in the `testing.csv` file. 
 
 ## Evaluation
 
