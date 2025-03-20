@@ -36,7 +36,7 @@ Submissions will be evaluated based on:
 
 - **Weighted F1-score (Primary Metric)**: This metric balances precision and recall across all classes, accounting for class imbalance.
 - The leaderboard ranks participants based on their **Weighted F1-score**.
-![image](https://github.com/user-attachments/assets/ee9de8eb-f1af-4f63-af63-d9681a5b29d9)
+![image](https://github.com/user-attachments/assets/4c00692c-6bb1-4085-8b5e-c100a9c40ec9)
 
 Precision is the ratio of true positives to the sum of true positives and false positives, while recall is the ratio of true positive to the sum of true positive and false negative.
 
