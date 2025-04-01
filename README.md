@@ -24,7 +24,7 @@ Each row in the dataset corresponds to a single 911 call. The goal is to develop
 
 ## Baseline Models
 
-`baseline_models.ipynb` file contains two baseline models. It also contains code to get started with the challenge. For the baselines we have used two models, one using Majority Baseline and the next using logical regression. The models have achieved an accuracy of 0.56 and 0.53 respectively. Your challenge is to beat these baseline models.
+`baseline_models.ipynb` file contains two baseline models. It also contains code to get started with the challenge. For the baselines we have used two models, one using Majority Baseline and the next using logistic regression. The models have achieved an accuracy of 0.56 and 0.53 respectively. Your challenge is to beat these baseline models.
 
 ## Submission
 
